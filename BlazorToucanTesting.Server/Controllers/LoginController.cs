@@ -11,6 +11,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
+// TODO: 
+// Abstract Logic (Use application layer)
+// Tidy up DTOs
+// Build automapper
+// Create Migrations
+
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace BlazorToucanTesting.Server.Controllers
