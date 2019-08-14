@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BlazorToucanTesting.Client\BlazorToucanTesting.Client.csproj" />
+    <ProjectReference Include="..\BlazorToucanTesting.Persistence\BlazorToucanTesting.Persistence.csproj" />
     <ProjectReference Include="..\BlazorToucanTesting.Shared\BlazorToucanTesting.Shared.csproj" />
   </ItemGroup>
 
